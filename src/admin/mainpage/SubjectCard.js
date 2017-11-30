@@ -7,7 +7,7 @@ class SubjectCard extends Component{
         this.state = {
             name:"test1",
             comment:"test",
-            
+
         }
     }
     render(){

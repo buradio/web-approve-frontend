@@ -1,0 +1,25 @@
+{
+    "posts": [
+      {  "id": 1, 
+         "subject": "ASR", 
+         "instructor": "Ekapol",
+         "comment": "This is a good subject"
+     },
+     {
+         "id": 2,
+         "subject": "NLP",
+         "instructor": "Ekapol",
+         "comment": "It's too hard for junior"
+     },
+     {
+        "id": 3,
+        "subject": "Cloud Computing",
+        "instructor": "Kulwadee",
+        "comment": "It's ..."
+     }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
